@@ -1,0 +1,15 @@
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.sourcelink.json
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\bin\Debug\net8.0\HomeWork.exe
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\bin\Debug\net8.0\HomeWork.dll
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.dll
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+C:\Education\GB C#\Seminar_lesson_4\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
