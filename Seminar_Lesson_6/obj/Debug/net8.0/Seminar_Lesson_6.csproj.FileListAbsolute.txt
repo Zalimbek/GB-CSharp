@@ -1,0 +1,15 @@
+C:\Education\GB C#\Seminar_Lesson_6\bin\Debug\net8.0\Seminar_Lesson_6.exe
+C:\Education\GB C#\Seminar_Lesson_6\bin\Debug\net8.0\Seminar_Lesson_6.deps.json
+C:\Education\GB C#\Seminar_Lesson_6\bin\Debug\net8.0\Seminar_Lesson_6.runtimeconfig.json
+C:\Education\GB C#\Seminar_Lesson_6\bin\Debug\net8.0\Seminar_Lesson_6.dll
+C:\Education\GB C#\Seminar_Lesson_6\bin\Debug\net8.0\Seminar_Lesson_6.pdb
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.AssemblyInfoInputs.cache
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.AssemblyInfo.cs
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.csproj.CoreCompileInputs.cache
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.sourcelink.json
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.dll
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\refint\Seminar_Lesson_6.dll
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.pdb
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\Seminar_Lesson_6.genruntimeconfig.cache
+C:\Education\GB C#\Seminar_Lesson_6\obj\Debug\net8.0\ref\Seminar_Lesson_6.dll
